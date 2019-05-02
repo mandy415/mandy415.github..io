@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YourSpecial.com" resolutions="1x,2x" timestamp="1556784615841">
+  <folder name="css">
+    <file name="site_global.css" crc="530869017"/>
+    <file name="master_a-__.css" crc="157386490" ref="index"/>
+    <file name="index.css" crc="3836898598" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dog.jpg" crc="502146425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dog_2x.jpg" crc="66683176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的-svg-2412432x4170.svg" crc="433621309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 2412432x4170_poster_.png" crc="420273009" ref="index"/>
+    <file name="貼上的-svg-2104273x4314.svg" crc="516362210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 2104273x4314_poster_.png" crc="4097255028" ref="index"/>
+    <file name="貼上的-svg-2230467x1447.svg" crc="350567428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 2230467x1447_poster_.png" crc="4199419408" ref="index"/>
+    <file name="貼上的-svg-2048x2722.svg" crc="257242642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 2048x2722_poster_.png" crc="3807428011" ref="index"/>
+    <file name="貼上的-svg-204347x1853.svg" crc="4097975421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 204347x1853_poster_.png" crc="3770386073" ref="index"/>
+    <file name="貼上的-svg-590588x149.svg" crc="309322619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 590588x149_poster_.png" crc="4021820318" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4281733943" seo="true" mt="1556783380350" redirect="true"/>
+</manifest>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://YourSpecial.com/index.html</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://YourSpecial.com/images/dog.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourSpecial.com/images/dog_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourSpecial.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-2412432x4170.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourSpecial.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-2104273x4314.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourSpecial.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-2230467x1447.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourSpecial.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-2048x2722.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourSpecial.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-204347x1853.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourSpecial.com/images/%E8%B2%BC%E4%B8%8A%E7%9A%84-svg-590588x149.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
